@@ -9,8 +9,8 @@ Practical project for the COMP6590: Computational Creativity module.
 The code can be run from the Jupyter notebook file `main.ipynb`.
 
 You will need `TensorFlow` installed in your Python environment and
-also `PrettyMIDI`, `Mido`, `numpy`, and `matplotlib`. The following command should
-work:
+also `PrettyMIDI`, `Mido`, `numpy`, and `matplotlib`. 
+Please use `requirements.txt` or the following command:
 
 ```
 pip install pretty_midi mido numpy tensorflow matplotlib
